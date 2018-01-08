@@ -15,6 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Rémy Praz
 email: remy.praz@gmail.com
+phone: +45 2578 2607
+dotCom: remypraz.com
 description: >- # this means to ignore newlines until "baseurl:"
   Rémy's cv, financial economics papers, etc.
 baseurl: "/page" # the subpath of your site, e.g. /blog

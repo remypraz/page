@@ -4,3 +4,28 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+![pic]({{ "/assets/pic.jpg" | absolute_url }}){:height="50%" width="50%"}
+  
+  
+[CV]({{ "/assets/Remy.pdf" | absolute_url }})
+
+remy.praz@gmail.com  
++45 2578 2607
+
+Senior Quantitative Analyst  
+Quantitative Risk Analytics  
+Danske Bank  
+Laksegade 7  
+DK-1092 Copenhagen K  
+(Denmark)
+
+_On leave from:_  
+Assistant Professor  
+Department of Finance   
+Copenhagen Business School  
+Solbjerg Plads 3, A4.02  
+DK-2000 Frederiksberg  
+(Denmark)
+  
+
