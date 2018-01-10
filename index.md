@@ -7,7 +7,7 @@ layout: home
 
 ![pic]({{site.baseurl}}/assets/pic.jpg){:height="50%" width="50%"}
   
-[CV]({{site.baseurl}}/assets/blabla.pdf)
+[CV]({{site.baseurl}}/assets/remy.pdf)
 
 remy.praz@gmail.com  
 +45 2578 2607
