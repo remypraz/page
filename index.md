@@ -5,10 +5,9 @@
 layout: home
 ---
 
-![pic]({{ "/assets/pic.jpg" | absolute_url }}){:height="50%" width="50%"}
+![pic]({{site.baseurl}}/assets/pic.jpg){:height="50%" width="50%"}
   
-  
-[CV]({{ "/assets/Remy.pdf" | absolute_url }})
+[CV]({{site.baseurl}}/assets/Remy.pdf)
 
 remy.praz@gmail.com  
 +45 2578 2607
