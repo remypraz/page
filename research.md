@@ -28,7 +28,7 @@ Feedback effect of commodity futures: Speculation can be beneficial to the end-u
 
 ## PhD Thesis
 
-* [Essays in Asset Pricing with Search Frictions]({{ "/assets/PrazDissertation.pdf" | absolute_url }})  
+* [Essays in Asset Pricing with Search Frictions]({{site.baseurl}}/assets/PrazDissertation.pdf)
 ([Get my thesis](https://infoscience.epfl.ch/record/199802) from the EPFL library.)
 
 
