@@ -9,9 +9,6 @@ layout: home
   
 [CV]({{site.baseurl}}/assets/remy.pdf)
 
-remy.praz@gmail.com  
-+45 2578 2607
-
 Senior Quantitative Analyst  
 Quantitative Risk Analytics  
 Danske Bank  
