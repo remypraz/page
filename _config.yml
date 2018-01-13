@@ -16,7 +16,8 @@
 title: Rémy Praz
 email: remy.praz@gmail.com
 phone: +45 2578 2607
-linkToPage: https://remypraz.github.io/page/
+linkToPage: remypraz.github.io/page/
+linkToPageWithProtocol: https://remypraz.github.io/page/
 description: >- # this means to ignore newlines until "baseurl:"
   Rémy's cv, financial economics papers, etc.
 baseurl: "/page" # the subpath of your site, e.g. /blog
