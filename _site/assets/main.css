@@ -118,16 +118,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(800px - (30px * 2));
-  max-width: calc(800px - (30px * 2));
+  max-width: -webkit-calc(700px - (30px * 2));
+  max-width: calc(700px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 700px) {
     .wrapper {
-      max-width: -webkit-calc(800px - (30px));
-      max-width: calc(800px - (30px));
+      max-width: -webkit-calc(700px - (30px));
+      max-width: calc(700px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -253,17 +253,20 @@ pre {
 
 .footer-col-1 {
   width: -webkit-calc(33% - (30px / 2));
-  width: calc(33% - (30px / 2)); }
+  width: calc(33% - (30px / 2));
+  text-align: left; }
 
 .footer-col-2 {
   width: -webkit-calc(34% - (30px / 2));
-  width: calc(34% - (30px / 2)); }
+  width: calc(34% - (30px / 2));
+  text-align: center; }
 
 .footer-col-3 {
   width: -webkit-calc(33% - (30px / 2));
-  width: calc(33% - (30px / 2)); }
+  width: calc(33% - (30px / 2));
+  text-align: right; }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
   .footer-col-1,
   .footer-col-2 {
     width: -webkit-calc(50% - (30px / 2));
@@ -310,27 +313,27 @@ pre {
   font-size: 30.6px;
   letter-spacing: -1px;
   line-height: 1; }
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: 700px) {
     .post-title {
-      font-size: 27px; } }
+      font-size: 30.6px; } }
 
 .post-content {
   margin-bottom: 30px; }
   .post-content h2 {
     font-size: 21.6px; }
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 700px) {
       .post-content h2 {
-        font-size: 31.5px; } }
+        font-size: 21.6px; } }
   .post-content h3 {
     font-size: 19.8px; }
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 700px) {
       .post-content h3 {
-        font-size: 24.75px; } }
+        font-size: 19.8px; } }
   .post-content h4 {
     font-size: 18px; }
-    @media screen and (max-width: 800px) {
+    @media screen and (max-width: 700px) {
       .post-content h4 {
-        font-size: 20.25px; } }
+        font-size: 18px; } }
 
 /**
  * Syntax highlighting styles

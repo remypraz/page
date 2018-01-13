@@ -139,16 +139,19 @@
 .footer-col-1 {
   width: -webkit-calc(33% - (#{$spacing-unit} / 2));
   width:         calc(33% - (#{$spacing-unit} / 2));
+  text-align: left;
 }
 
 .footer-col-2 {
   width: -webkit-calc(34% - (#{$spacing-unit} / 2));
   width:         calc(34% - (#{$spacing-unit} / 2));
+  text-align: center;
 }
 
 .footer-col-3 {
   width: -webkit-calc(33% - (#{$spacing-unit} / 2));
   width:         calc(33% - (#{$spacing-unit} / 2));
+  text-align: right;
 }
 
 @include media-query($on-laptop) {
@@ -219,7 +222,7 @@
   line-height: 1;
 
   @include media-query($on-laptop) {
-    @include relative-font-size(1.5);
+    @include relative-font-size(1.7);
   }
 }
 
@@ -230,7 +233,7 @@
     @include relative-font-size(1.2);
 
     @include media-query($on-laptop) {
-      @include relative-font-size(1.75);
+      @include relative-font-size(1.2);
     }
   }
 
@@ -238,7 +241,7 @@
     @include relative-font-size(1.1);
 
     @include media-query($on-laptop) {
-      @include relative-font-size(1.375);
+      @include relative-font-size(1.1);
     }
   }
 
@@ -246,7 +249,7 @@
     @include relative-font-size(1.0);
 
     @include media-query($on-laptop) {
-      @include relative-font-size(1.125);
+      @include relative-font-size(1.0);
     }
   }
 }
