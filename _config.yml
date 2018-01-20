@@ -21,7 +21,7 @@ linkToPageWithProtocol: https://remypraz.github.io/page/
 description: >- # this means to ignore newlines until "baseurl:"
   Remy Praz's cv, financial economics papers, etc.
 baseurl: "/page" # the subpath of your site, e.g. /blog
-url: remypraz.github.io
+url: http://remypraz.com #remypraz.github.io
 #url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
