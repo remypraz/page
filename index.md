@@ -4,3 +4,24 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+![pic]({{site.baseurl}}/assets/pic.jpg){:height="50%" width="50%"}
+  
+[CV]({{site.baseurl}}/assets/remy.pdf)
+
+Senior Quantitative Analyst  
+Quantitative Risk Analytics  
+Danske Bank  
+Laksegade 7  
+DK-1092 Copenhagen K  
+(Denmark)
+
+_On leave from:_  
+Assistant Professor  
+Department of Finance   
+Copenhagen Business School  
+Solbjerg Plads 3, A4.02  
+DK-2000 Frederiksberg  
+(Denmark)
+  
+
