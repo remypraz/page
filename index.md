@@ -7,12 +7,8 @@ layout: home
 
 ![pic]({{site.baseurl}}/assets/pic.jpg){:height="50%" width="50%"}
   
-[CV]({{site.baseurl}}/assets/remy.pdf)
-
 Quantitative Risk Analytics  
 Danske Bank  
 
-_On leave from:_  
-Department of Finance   
-Copenhagen Business School  
+[CV]({{site.baseurl}}/assets/remy.pdf)
 
