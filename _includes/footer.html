@@ -4,18 +4,22 @@
 
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a href={{site.linkToPageWithProtocol}}>{{site.linkToPage}}</a></li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>{{ site.phone number | escape }}</li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-        <p>{{ site.phone number | escape }}</p>
+        <!-- <p>{{ site.phone number | escape }}</p> -->
       </div>
 
       <div class="footer-col footer-col-3">
         <ul class="contact-list">
+          <!--
           <li>
             <li><a href={{site.linkToPageWithProtocol}}>{{site.linkToPage}}</a></li>
+          -->
         </ul>
       </div>
 
