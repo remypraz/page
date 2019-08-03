@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+From my time in academia. Dormant.
+
 ## Research Interests
 
 * Asset pricing theory, financial frictions, commodity markets.
