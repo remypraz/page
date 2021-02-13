@@ -11,8 +11,8 @@ From my time in academia. Dormant.
 
 ## Publication
 
-* [Asset Price Dynamics with Limited Attention](https://ssrn.com/abstract=1651098)
-**Review of Financial Studies** (forthcoming)    
+* [Asset Price Dynamics with Limited Attention](https://ssrn.com/abstract=1651098)   
+*Review of Financial Studies* (forthcoming)    
 with Terrence Hendershott, Albert Menkveld, and Mark Seasholes  
 Structural estimation of an equilibrium model of infrequent trading using NYSE data. Pricing errors for the typical NYSE stock have a standard deviation of 3.2 percentage points and a half-life of 6.2 weeks.
 
