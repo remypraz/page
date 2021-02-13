@@ -7,8 +7,10 @@ layout: home
 
 ![pic]({{site.baseurl}}/assets/pic.jpg){:height="50%" width="50%"}
   
-Quantitative Risk Analytics  
+Quantitative Research	 
 Danske Bank  
 
 [CV]({{site.baseurl}}/assets/remy.pdf)
+
+This page is built with Jekyll, based on the theme minima.
 
