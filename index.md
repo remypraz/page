@@ -7,9 +7,6 @@ layout: home
 
 ![pic]({{site.baseurl}}/assets/pic.jpg){:height="50%" width="50%"}
   
-Quantitative Research    
-Danske Bank  
-
 [CV]({{site.baseurl}}/assets/remy.pdf)
 
 ---
